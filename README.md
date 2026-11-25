@@ -267,33 +267,6 @@ Use a browser with WebGL support and hardware acceleration enabled for the best 
 
 ---
 
-## 🌐 Deployment
-
-The project can be deployed using Vercel.
-
-### Deployment Steps
-
-1. Push the project to GitHub.
-2. Open https://vercel.com/
-3. Sign in using GitHub.
-4. Select **Add New Project**.
-5. Import the `solar-system-explorer-isro` repository.
-6. Configure the project:
-
-| Configuration | Value |
-|---|---|
-| Framework Preset | Other |
-| Root Directory | `Solar-System-Explorer` |
-| Build Command | Leave empty |
-| Output Directory | `.` |
-| Install Command | Leave empty |
-
-7. Click **Deploy**.
-
-Vercel will generate a public deployment URL.
-
----
-
 ## 📚 Information Sources
 
 Mission information should be cross-checked with official ISRO resources.
